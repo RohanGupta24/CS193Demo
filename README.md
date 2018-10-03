@@ -1,3 +1,3 @@
 # CS193Demo
 
-Simple Git Demo in Lecture 4 of CS193
+Simple Git Demo in CS 193 Lecture 4
